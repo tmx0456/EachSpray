@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EachSpray.iml" filepath="$PROJECT_DIR$/EachSpray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseLib/alertview/alertview.iml" filepath="$PROJECT_DIR$/baseLib/alertview/alertview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseLib/baseLib.iml" filepath="$PROJECT_DIR$/baseLib/baseLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseLib/customview/customview.iml" filepath="$PROJECT_DIR$/baseLib/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseLib/flowlayout-lib/flowlayout-lib.iml" filepath="$PROJECT_DIR$/baseLib/flowlayout-lib/flowlayout-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/godReply/godReply.iml" filepath="$PROJECT_DIR$/godReply/godReply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseLib/kprogresshud/kprogresshud.iml" filepath="$PROJECT_DIR$/baseLib/kprogresshud/kprogresshud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseLib/multiple-status-view/multiple-status-view.iml" filepath="$PROJECT_DIR$/baseLib/multiple-status-view/multiple-status-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tanbase/tanbase.iml" filepath="$PROJECT_DIR$/tanbase/tanbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseLib/videocompressV2/videocompressV2.iml" filepath="$PROJECT_DIR$/baseLib/videocompressV2/videocompressV2.iml" />
+    </modules>
+  </component>
+</project>

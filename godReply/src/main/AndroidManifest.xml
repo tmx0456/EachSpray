@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.eachspray.tan.godreply" >
+    <application>
+        <activity android:name=".ui.activity.GodReplyActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        </activity>
+    </application>
+</manifest>
