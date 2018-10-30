@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
-
+apply plugin: 'com.mob.sdk'
 android {
     compileSdkVersion rootProject.ext.android.compileSdkVersion
     buildToolsVersion rootProject.ext.android.buildToolsVersion
@@ -80,7 +80,7 @@ dependencies {
     //Logger
     api 'com.orhanobut:logger:2.1.1'
     //Banner
-    api 'cn.bingoogolapple:bga-banner:2.1.8@aar'
+    api 'cn.bingoogolapple:bga-banner:2.2.5@aar'
     //smartRefreshLayout 下拉刷新
     api 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.3'
     api 'com.scwang.smartrefresh:SmartRefreshHeader:1.0.3'
@@ -96,3 +96,4 @@ dependencies {
 repositories {
     mavenCentral()
 }
+
